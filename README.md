@@ -1,3 +1,4 @@
+
 # Introdução a Lógica de Programação.
 
 Nesse repositório é apresentado os códigos utilizando operadores lógicos em JavaScript.
@@ -9,8 +10,11 @@ Nesse repositório é apresentado os códigos utilizando operadores lógicos em 
 ```bash
   
  Codigos
+  │   ├── Testes.js
+           ├── 15 Exercicios.js
   │   ├── Graus.js
-  │   ├── MEdia.js
+  │   ├── IMC.js
+  │   ├── Media.js
   |   ├── Produto.js
   |   ├── Retangulo.js
   |   └── Volume.js
